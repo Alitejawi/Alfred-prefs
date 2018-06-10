@@ -1,1 +1,1 @@
-# Alfred-prefs
+This repo holds my Alfred preferences
